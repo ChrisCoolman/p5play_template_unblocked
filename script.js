@@ -10,4 +10,5 @@ function setup() {
 
 function draw() {
     // this is the game loop, runs 60 times a second
+    background(200); // creates gray background
 }
